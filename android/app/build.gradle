@@ -6,7 +6,8 @@ plugins {
 
 android {
     namespace = "com.example.fake_call_prank"
-    compileSdk = 35
+    compileSdk = 36
+    ndkVersion = "28.2.13676358"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -20,7 +21,7 @@ android {
     defaultConfig {
         applicationId = "com.example.fake_call_prank"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
     }
