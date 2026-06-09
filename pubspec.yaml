@@ -13,7 +13,7 @@ dependencies:
   record: ^7.0.0
   path_provider: ^2.1.5
   permission_handler: ^12.0.2
-  ffmpeg_kit_flutter_new: ^1.6.1
+  ffmpeg_kit_flutter_new: ^4.2.0
   path: ^1.9.1
 
 dev_dependencies:
